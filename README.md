@@ -1,13 +1,29 @@
 <div align="center">
 
-# Gabriel Ferrari
+# Gabriel Ferrari Silva
 
-Desenvolvedor full stack em São Paulo.<br>
-Hoje construo o CRM imobiliário da [Imobzi](https://imobzi.com): app em Angular, API em Python.
+**Especialista Angular · Lead Front-end Engineer · Full Stack Python/FastAPI**<br>
+São Paulo · 7 anos construindo o CRM/ERP imobiliário da [Imobzi](https://imobzi.com)
 
-<img src="https://skillicons.dev/icons?i=ts,angular,react,python,fastapi,postgres,supabase,cloudflare,gcp,kotlin,sass,figma" alt="TypeScript, Angular, React, Python, FastAPI, Postgres, Supabase, Cloudflare, Google Cloud, Kotlin, Sass, Figma">
+<a href="https://www.linkedin.com/in/gabriel-ferrari-silva"><img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"></a>&nbsp;
+<a href="mailto:ferrari.gabriel2002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" alt="E-mail"></a>
+
+<img src="https://skillicons.dev/icons?i=angular,ts,rxjs,tailwind,sass,react,python,fastapi,elasticsearch,firebase,gcp,cloudflare,supabase,postgres,kotlin,vitest,jest,githubactions&perline=9" alt="Angular, TypeScript, RxJS, Tailwind, Sass, React, Python, FastAPI, Elasticsearch, Firebase, Google Cloud, Cloudflare, Supabase, Postgres, Kotlin, Vitest, Jest, GitHub Actions">
 
 </div>
+
+## Agora
+
+Lidero o front-end do novo CRM/ERP da Imobzi: uma base só para web e Android, em Angular 22 zoneless, Signals, Ionic 9 e Capacitor 8. Desenvolvo com agentes de IA (Claude Code); arquitetura, PRDs e revisão são meus.
+
+## Em números
+
+- **~92% do código** do novo CRM/ERP (20 módulos), autoria por `git blame`
+- **10 mil+ testes** unitários (~95% de cobertura) e **200+ E2E** em Playwright
+- **CI de 39 para 21 min**, com a suíte 46% maior
+- **800+ sites de clientes** num único app Angular SSR multi-tenant, no lugar de 500+ repositórios
+- **30+ endpoints** migrados de Python 2 para FastAPI, rota a rota com rollback
+- **2.400 PRs revisados** em 2 anos como Tech Lead
 
 ## Projetos
 
@@ -32,9 +48,9 @@ Finanças pessoais com infraestrutura 100% gratuita. Lança gastos sozinho a par
 
 ### [ycar-site](https://github.com/Gabriel-Ferrari/ycar-site)
 
-Site da YCar Executive, transporte executivo em São Paulo. Página estática pré-renderizada, reserva direto no WhatsApp e painel para o dono editar textos e fotos.
+Site da YCar Executive, transporte executivo em São Paulo. Pré-renderizado, reserva direto no WhatsApp e painel para o dono editar textos e fotos. Lighthouse mobile: 97 de performance, 100 no resto.
 
-`Angular 22` `SSG` `SCSS` `Cloudflare Workers`
+`Angular 22` `SSG` `Signals` `Cloudflare Workers`
 
 [Site](https://ycar-site.ferrari-gabriel2002.workers.dev) · [Código](https://github.com/Gabriel-Ferrari/ycar-site)
 
@@ -44,7 +60,7 @@ Site da YCar Executive, transporte executivo em São Paulo. Página estática pr
 
 ## Contribuições
 
-A maior parte do meu trabalho fica em repositórios privados da Imobzi, por isso o gráfico diz mais que a lista de repositórios.
+Quase todo o meu trabalho fica em repositórios privados da Imobzi, por isso o gráfico diz mais que a lista de repositórios.
 
 <div align="center">
 

@@ -12,10 +12,6 @@ São Paulo · 7 anos construindo o CRM/ERP imobiliário da [Imobzi](https://imob
 
 </div>
 
-## Agora
-
-Lidero o front-end do novo CRM/ERP da Imobzi: uma base só para web e Android, em Angular 22 zoneless, Signals, Ionic 9 e Capacitor 8. Desenvolvo com agentes de IA (Claude Code); arquitetura, PRDs e revisão são meus.
-
 ## Em números
 
 - **~92% do código** do novo CRM/ERP (20 módulos), autoria por `git blame`

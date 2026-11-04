@@ -12,15 +12,6 @@ São Paulo · 7 anos construindo o CRM/ERP imobiliário da [Imobzi](https://imob
 
 </div>
 
-## Em números
-
-- **~92% do código** do novo CRM/ERP (20 módulos), autoria por `git blame`
-- **10 mil+ testes** unitários (~95% de cobertura) e **200+ E2E** em Playwright
-- **CI de 39 para 21 min**, com a suíte 46% maior
-- **800+ sites de clientes** num único app Angular SSR multi-tenant, no lugar de 500+ repositórios
-- **30+ endpoints** migrados de Python 2 para FastAPI, rota a rota com rollback
-- **2.400 PRs revisados** em 2 anos como Tech Lead
-
 ## Projetos
 
 <table>

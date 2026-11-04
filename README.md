@@ -60,8 +60,6 @@ Site da YCar Executive, transporte executivo em São Paulo. Pré-renderizado, re
 
 ## Contribuições
 
-Quase todo o meu trabalho fica em repositórios privados da Imobzi, por isso o gráfico diz mais que a lista de repositórios.
-
 <div align="center">
 
 <picture>

@@ -31,7 +31,7 @@ Finanças pessoais com infraestrutura 100% gratuita. Lança gastos sozinho a par
 </td>
 <td width="50%" valign="top">
 
-<a href="https://ycar-site.ferrari-gabriel2002.workers.dev"><img src="https://raw.githubusercontent.com/Gabriel-Ferrari/ycar-site/main/docs/prints/inicio-computador.webp" alt="Página inicial da YCar Executive"></a>
+<a href="https://ycarexecutive.com.br"><img src="https://raw.githubusercontent.com/Gabriel-Ferrari/ycar-site/main/docs/prints/inicio-computador.webp" alt="Página inicial da YCar Executive"></a>
 
 ### [ycar-site](https://github.com/Gabriel-Ferrari/ycar-site)
 
@@ -39,7 +39,7 @@ Site da YCar Executive, transporte executivo em São Paulo. Pré-renderizado, re
 
 `Angular 22` `SSG` `Signals` `Cloudflare Workers`
 
-[Site](https://ycar-site.ferrari-gabriel2002.workers.dev) · [Código](https://github.com/Gabriel-Ferrari/ycar-site)
+[Site](https://ycarexecutive.com.br) · [Código](https://github.com/Gabriel-Ferrari/ycar-site)
 
 </td>
 </tr>
